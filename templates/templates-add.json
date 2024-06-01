@@ -1,0 +1,55 @@
+  ,{
+      "name": "Jupiter",
+      "filename": "astronomy/jupiter",
+      "iconCode": "\ue98e",
+      "categories": [
+        "Creative",
+        "Astronomy"
+      ]
+  },
+  {
+      "name": "Mars",
+      "filename": "astronomy/mars",
+      "iconCode": "\ue98e",
+      "categories": [
+        "Creative",
+        "Astronomy"
+      ]
+  },
+  {
+      "name": "Meteors",
+      "filename": "astronomy/meteors",
+      "iconCode": "\ue98e",
+      "categories": [
+        "Creative",
+        "Astronomy"
+      ]
+  },
+  {
+      "name": "Saturn",
+      "filename": "astronomy/saturn",
+      "iconCode": "\ue98e",
+      "categories": [
+        "Creative",
+        "Astronomy"
+      ]
+  },
+  {
+      "name": "Sky",
+      "filename": "astronomy/sky",
+      "iconCode": "\ue98e",
+      "categories": [
+        "Creative",
+        "Astronomy"
+      ]
+  },
+  {
+      "name": "Sun",
+      "filename": "astronomy/sun",
+      "iconCode": "\ue98e",
+      "categories": [
+        "Creative",
+        "Astronomy"
+      ]
+  }
+
